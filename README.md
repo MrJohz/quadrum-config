@@ -16,7 +16,6 @@ The layout of the `.json` files is as follows:  (Note: in terms of actual files,
 
 ```js
 {
-  {
   // Unlocalized name.  You shouldn't ever see this, but you'll
   // need to remember it - this is the name that will be used
   // by recipes such as Minetweaker.
