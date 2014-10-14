@@ -1,0 +1,10 @@
+{
+  "name": "modern_mocha_brown_block",
+  "default-texture": "modern_mocha_brown_block.png",
+  "material": "stone",
+  "hardness": 1.5,
+  "resistance": 10.0,
+  "mining-level": 0,
+  "drops-self": true
+}
+

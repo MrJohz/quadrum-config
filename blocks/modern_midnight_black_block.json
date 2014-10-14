@@ -1,0 +1,21 @@
+{
+  "name": "modern_midnight_black_block",
+  "default-texture": "modern_midnight_black_block.png",
+  "material": "stone",
+  "type": "block",
+  "ore-dictionary": ["blockMidnightBlack"],
+  "hardness": 1.5,
+  "resistance": 10.0,
+  "light-level": 0,
+  "redstone-level": 0,
+  "burn-time": 0,
+  "max-stack-size": 64,
+  "mining-level": 0,
+  "transparent": false,
+  "collision": true,
+  "flammable": false,
+  "soil": false,
+  "requires-tool": true,
+  "drops-self": true
+}
+
